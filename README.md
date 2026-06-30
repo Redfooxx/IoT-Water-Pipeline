@@ -19,3 +19,32 @@ An end-to-end security platform developed for a hotel's IoT water monitoring sys
 
 ## System Architecture
 <img width="469" height="232" alt="image" src="https://github.com/user-attachments/assets/655d4e73-f16c-4638-bbf8-2d6a288c0606" />
+
+## Attack Demonstration
+
+### Eavesdropping
+Attempted to intercept MQTT traffic directly from the network.
+
+✅ Blocked by TLS encryption
+
+### Fake Data Injection
+Attempted to publish forged sensor readings.
+
+✅ Blocked by mTLS authentication and HMAC validation
+
+### Replay Attack
+Attempted to resend previously captured "valid" messages.
+
+✅ Blocked by timestamp freshness and sequence validation
+
+## AI-Powered Detection
+Traditional security rules stop malicious messages before they reach the dashboard.
+
+Isolation Forest continuously analyzes sensor behavior to identify abnormal pressure and flow patterns that appear legitimate but differ from normal operating conditions.
+
+Examples include:
+
+Sudden pressure spikes
+Gradual flow drops
+Sensor drift
+Unusual operating patterns
