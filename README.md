@@ -7,3 +7,15 @@ An end-to-end security platform developed for a hotel's IoT water monitoring sys
 ## Dashboard
 <img width="1890" height="905" alt="AI screen shot" src="https://github.com/user-attachments/assets/2eb00a60-e170-44d3-b42e-95be0e2ca8a6" />
 
+## Key Features
+- TLS encrypted MQTT communication
+- Mutual TLS (mTLS) device authentication
+- HMAC message integrity validation
+- Timestamp & sequence replay protection
+- Isolation Forest anomaly detection
+- Real-time security dashboard
+- Multi-zone water monitoring
+- Live attack simulation
+
+## System Architecture
+<img width="469" height="232" alt="image" src="https://github.com/user-attachments/assets/655d4e73-f16c-4638-bbf8-2d6a288c0606" />
