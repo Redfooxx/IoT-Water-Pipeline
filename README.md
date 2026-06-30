@@ -6,7 +6,7 @@ An end-to-end security platform developed for a hotel's IoT water monitoring sys
 
 
 
-<video src="(https://github.com/user-attachments/assets/0f67abc1-d7fc-4a3f-8cf2-4303e58a523b)" width="100%" autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/0f67abc1-d7fc-4a3f-8cf2-4303e58a523b" width="100%" autoplay loop muted></video>
 
 
 https://github.com/user-attachments/assets/0f67abc1-d7fc-4a3f-8cf2-4303e58a523b
