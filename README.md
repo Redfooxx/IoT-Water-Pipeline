@@ -44,7 +44,7 @@ Isolation Forest continuously analyzes sensor behavior to identify abnormal pres
 
 Examples include:
 
-Sudden pressure spikes
-Gradual flow drops
-Sensor drift
-Unusual operating patterns
+- Sudden pressure spikes
+- Gradual flow drops
+- Sensor drift
+- Unusual operating patterns
