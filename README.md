@@ -65,3 +65,12 @@ Examples include:
 ✅ Live AI anomaly detection
 
 ✅ Automatic security event logging
+
+## Future Improvements
+- SIEM integration
+- Docker deployment
+- Grafana dashboards
+- Prometheus monitoring
+- Certificate lifecycle automation
+- Centralized logging
+- Kubernetes deployment
