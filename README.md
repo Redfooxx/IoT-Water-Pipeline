@@ -37,6 +37,10 @@ Attempted to resend previously captured "valid" messages.
 
 ✅ Blocked by timestamp freshness and sequence validation
 
+<img width="1740" height="1021" alt="2 Replay Attack Defended" src="https://github.com/user-attachments/assets/135c6991-5c21-45d7-af7a-b1d2626540ef" />
+
+*Replay Attack Defended*
+
 ## AI-Powered Detection
 Traditional security rules stop malicious messages before they reach the dashboard.
 
@@ -48,3 +52,16 @@ Examples include:
 - Gradual flow drops
 - Sensor drift
 - Unusual operating patterns
+
+## Results
+✅ 100% replay attacks blocked
+
+✅ Real-time attack detection
+
+✅ TLS overhead of only 0.178%
+
+✅ Multi-zone monitoring dashboard
+
+✅ Live AI anomaly detection
+
+✅ Automatic security event logging
