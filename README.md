@@ -3,11 +3,7 @@ An end-to-end security platform developed for a hotel's IoT water monitoring sys
 
 ## Live Demonstration
 
-
-https://github.com/user-attachments/assets/89349185-a2eb-4e02-9cab-5489fd346159
-
-
-<video src="https://github.com/user-attachments/assets/0f67abc1-d7fc-4a3f-8cf2-4303e58a523b" width="100%" autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/89349185-a2eb-4e02-9cab-5489fd346159" width="100%" autoplay loop muted></video>
 
 ## Dashboard
 <img width="1890" height="905" alt="AI screen shot" src="https://github.com/user-attachments/assets/2eb00a60-e170-44d3-b42e-95be0e2ca8a6" />
